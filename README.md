@@ -4,7 +4,7 @@ Trait with some test utilities for testing up validation in your requests.
 
 ## Installation
 
-Download and copy the TestUtilites.php trait into tests/ folder of your Laravel project.
+Download and copy the TestUtilites.php trait into tests/ folder of your Laravel project. It will test your requests against 422 response status and check the validation errors.
 
 ## Usage
 
