@@ -11,6 +11,8 @@ Download and copy the TestUtilites.php trait into tests/ folder of your Laravel 
 Use trait in your Test class
 
 ```php
+use Tests\TestUtilities;
+
 class CreateAreaTest extends TestCase
 {
     use RefreshDatabase, TestUtilities;
