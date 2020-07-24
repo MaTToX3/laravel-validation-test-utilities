@@ -7,3 +7,4 @@ Trait with some test utilities for testing up validation in your requests.
 - [ ] How to install
 - [ ] Examples
 - [ ] Docs
+- [ ] Convert to composer package
